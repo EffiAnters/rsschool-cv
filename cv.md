@@ -17,3 +17,34 @@
 ## About Me: ##
 
 I’m interested in Front-end Development because this occupation provides endless possibilities for professional growth.
+
+## Skills: ##
+
+* HTML
+
+* CSS
+
+* JavaScript (Basic)
+
+* Git
+
+## Code Example: ##
+
+
+## Experience: ##
+
+
+## Education: ##
+
+
+College of Architecture and Construction Management
+
+## Languages: ##
+
+ * English - basic
+
+ * Russian - native
+
+ * Belarusian - native
+
+ * Polish - intermediate
